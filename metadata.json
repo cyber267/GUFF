@@ -1,0 +1,6 @@
+{
+  "name": "Guff",
+  "description": "Fast, secure end-to-end encrypted messaging app with high-resolution media sharing, cross-device sync, and intelligent AI assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
